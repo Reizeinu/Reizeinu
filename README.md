@@ -6,7 +6,7 @@
   <img height="180" src="https://files.catbox.moe/w9g6be.png"  />
 </div>
 
-<h3 align="center">$${\color{lightblue}★}$$<br><br>$${\color{lightblue}Disaster \space \color{lightblue} is \space \color{lightblue}my \space \color{lightblue}muse}$$</h3>
+<h3 align="center">Ｄｉｓａｓｔｅｒ ｉｓ ｍｙ ｍｕｓｅ</h3>
 
 ###
 
